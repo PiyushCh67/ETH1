@@ -10,11 +10,11 @@ The `ClubEntry` function allows individuals to vote if they are at least 18 year
 
 ### Division
 
-The `Division` function performs a division operation between two integers `` and `y`. It ensures that the denominator `y` is not zero before performing the division.
+The `Division` function performs a division operation between two integers `first_num` and `second_num`. It ensures that the denominator `second_num` is not zero before performing the division.
 
-### Ludo Game
+### Kabaddi Game
 
-The `ludo` function simulates a Ludo game. It enforces a rule that a group must not exceed 4 players for the game.
+The `Kabaddi` function simulates a Kabaddi game. It enforces a rule that a group must not exceed 7 players for the game.
 
 ## Usage
 
@@ -25,7 +25,7 @@ The `ludo` function simulates a Ludo game. It enforces a rule that a group must 
 5. Interact with the contract's functions by making method calls through your development environment.
 
 ## Author
-"Shresth"
+"Piyush"
 
 ## License
 
